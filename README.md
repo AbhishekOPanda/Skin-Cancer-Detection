@@ -7,6 +7,7 @@ As the dataset was already distributed between training and testing data, I just
 ![ad7014a8-0652-48c5-a936-1027ac472bd7](https://user-images.githubusercontent.com/49121645/210022333-9558dd77-8774-4b85-84e9-1a5bd5883be7.png)
 
 Now I have implememnted few algorithms to classsify the skin cancer. 
+
 1	Random Forest classifier:	83.333333
 ![image](https://user-images.githubusercontent.com/49121645/210022657-34f0588b-1711-40b7-8479-deb657f39e62.png)
 
